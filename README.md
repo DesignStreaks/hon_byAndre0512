@@ -1,3 +1,6 @@
+#### Note: I will *not* be contributing to this fork.  The creation of this fork is to ensure the original fork from Andre is kept alive.
+
+
 ## Haier wants to force me to delete this repository, have a look to the [Takedown FAQs](https://github.com/Andre0512/hon/blob/main/takedown_faq.md) and [discuss here](https://github.com/Andre0512/hon/issues/147)
 
 # Haier hOn
